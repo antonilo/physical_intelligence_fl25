@@ -35,39 +35,39 @@
     "relUrl": "/#schedule-tentative"
   },"5": {
     "doc": "Home",
-    "title": "Overture",
-    "content": "Jan. 16 Intro + Overview Syllabus, Slides Jan. 21 Intro To Imitation Learning &amp; Reinforcement Learning Part I Slides Jan. 23 Intro To Imitation Learning &amp; Reinforcement Learning Part II Slides Jan. 28 Intro To Imitation Learning &amp; Reinforcement Learning Part III Slides Jan. 30 Hands-on Tutorial on Policy Learning (Lab) Bring your laptop! IL Tutorial Colab, RL Tutorial Colab ",
-    "url": "/#overture",
+    "title": "Foundation",
+    "content": "AUG 28 Intro Syllabus, Slides SEP 2 What is a Robot? The issues of the control hierarchy. Slides SEP4 Intro to Probability I Slides SEP 9 Intro to Probability II Slides ",
+    "url": "/#foundation",
     
-    "relUrl": "/#overture"
+    "relUrl": "/#foundation"
   },"6": {
     "doc": "Home",
-    "title": "Foundations",
-    "content": ". Feb. 4 Robot Perception I Slides, Paper Reading A critique of pure vision Feb. 6 Robot Perception II Paper Reading Intelligence w/o Representations, Designing Action-Based Sensors Feb. 11 The Development Perspective on Robot Learning I Paper Reading Six Lessons from Babies Feb. 13 The Development Perspective on Robot Learning II Paper Reading Sensorimotor Learning, Intrinsic Motivation ",
-    "url": "/#foundations",
+    "title": "Imitation Learning",
+    "content": "SEP 16 Imitation Learning I Slides SEP 18 Imitation Learning as Generative: AE; VAE, Diffusion Slides SEP 23 Diffusion Policy: Real-Time Diffusion Slides SEP 25 Learning from Pre-Trained Models Slides SEP 30 Tutorial on Theory for Imitation Learning Slides ",
+    "url": "/#imitation-learning",
     
-    "relUrl": "/#foundations"
+    "relUrl": "/#imitation-learning"
   },"7": {
     "doc": "Home",
-    "title": "Data",
-    "content": ". Feb. 18 Learning from real-world robot data I Paper Reading Motor Learning by Imitation Feb. 20 Learning from real-world robot data II Project Proposal Due Paper Reading Diffusion Policy, Aloha, Robots in Homes Feb. 25 Learning from others’ data I Paper Reading Feb. 27 Learning from others’ data II Paper Reading Mar. 4 Learning from Internet Data I Paper Reading Mar. 6 Learning from Internet Data II Paper Reading Mar. 11 No Class Spring Break 🏝️ Mar. 13 No Class Spring Break 🏝️ Mar. 18 Learning from Synthetic Data I Paper Reading Mar. 20 Learning from Synthetic Data II Project Midterm Report Due Paper Reading Mar. 25 Lifelong Learning I Paper Reading Mar. 27 Lifelong Learning II Paper Reading ",
-    "url": "/#data",
+    "title": "Reinforcement Learning",
+    "content": "SEP 30 Intro to Reinforcement Learning; Robots Learning by Themselves Slides OCT 2 Policy Gradient Slides OCT 7 Action G…Tic, GAE Slides OCT 9 No Class Fall Break 🏝️ OCT 14 NPG, TRPO, PPO Slides OCT 16 Tutorial on RL Slides OCT 21 Midterm ",
+    "url": "/#reinforcement-learning",
     
-    "relUrl": "/#data"
+    "relUrl": "/#reinforcement-learning"
   },"8": {
     "doc": "Home",
     "title": "Frontiers",
-    "content": ". Apr. 1 Guest Lecture Apr. 3 Challenges for the field I Paper Reading Apr. 8 Guest Lecture Apr. 10 Challenges for the field II Paper Reading Apr. 15 Challenges for the field III Paper Reading Apr. 17 Grand Finale Paper Reading ",
+    "content": ". Apr. 1 Robot Design Paper Reading A Mathematical Theory of Co-Design, Leonardo Apr. 3 Safety Paper Reading Conformal Intro (Ch. 1 &amp; 2), Robot Help Apr. 8 Multi-Agent Intelligence Paper Reading Drone Swarm Control Dialectic Collaboration Apr. 10 Guest Lecture Dhruv Shah Apr. 15 Learning from Human Feedback Paper Reading TAMER Aligning HR Representations Apr. 17 Guest Lecture Siddhartha Srinivasa ",
     "url": "/#frontiers",
     
     "relUrl": "/#frontiers"
   },"9": {
     "doc": "Home",
-    "title": "Project Presentations",
-    "content": "Apr. 22 Project Presentations Presenters TBD Apr. 24 Project Presentations Slides Due 11:59 pm ET, April 24 Presenters TBD Apr. 29 Best Presentation Awards 🍨 Project Report Due May 1 ",
-    "url": "/#project-presentations",
+    "title": "ToDo",
+    "content": "NOV 4 Challenges ahead NOV 6 The Illusion of Intelligence NOV 11 . NOV 13 . NOV 18 . NOV 20 . NOV 25 . NOV 27 No Class Thanksgiving :turkey: DEC 2 . DEC 4 . ",
+    "url": "/#todo",
     
-    "relUrl": "/#project-presentations"
+    "relUrl": "/#todo"
   },"10": {
     "doc": "Home",
     "title": "Instructors",
