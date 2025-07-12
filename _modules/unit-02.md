@@ -1,25 +1,29 @@
 ---
-title: Imitation Learning 
+title: 
 ---
 
-SEP 16
-: Imitation Learning I
-  : [Slides](./assets/pdfs/)
-
-
-SEP 18
-: Imitation Learning as Generative: AE; VAE, Diffusion
+SEP 11
+: Intro to Reinforcement Learning; Robots Learning by Themselves
   : [Slides](/physical_intelligence_fl25/assets/pdfs/)
 
-SEP 23
-: Diffusion Policy: Real-Time Diffusion
+SEP 16
+: Policy Gradient
+  : [Slides](/physical_intelligence_fl25/assets/pdfs/)
+
+SEP 18
+: Action G...Tic, GAE 
   : [Slides](/physical_intelligence_fl25/assets/pdfs/) 
 
 
-SEP 25
-: Learning from Pre-Trained Models
+SEP 23
+: NPG, TRPO, PPO 
   : [Slides](/physical_intelligence_fl25/assets/pdfs/)
 
-SEP 30
-: Tutorial on Theory for Imitation Learning
+SEP 25
+: Tutorial on RL 
   : [Slides](/physical_intelligence_fl25/assets/pdfs/)
+
+
+
+
+  

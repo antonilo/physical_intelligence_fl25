@@ -1,31 +1,33 @@
 ---
-title: Reinforcement Learning
+title: Imitation Learning
 --- 
 
+
+
 SEP 30 
-: Intro to Reinforcement Learning; Robots Learning by Themselves
-  : [Slides](./assets/pdfs/)
+: Imitation Learning I
+  : [Slides](/physical_intelligence_fl25/assets/pdfs/)
+
 
 OCT 2
-: Policy Gradient
-  : [Slides](./assets/pdfs/)
+: Imitation Learning as Generative: AE; VAE, Diffusion 
+  : [Slides](/physical_intelligence_fl25/assets/pdfs/)
 
 OCT 7
-: Action G...Tic, GAE
-  : [Slides](./assets/pdfs/)
+: Diffusion Policy: Real-Time Diffusion
+  : [Slides](/physical_intelligence_fl25/assets/pdfs/)
 
 OCT 9
 : **No Class**{: .label .label-purple} Fall Break 🏝️
 
 
 OCT 14
-: NPG, TRPO, PPO
-  : [Slides](./assets/pdfs/)
+: Learning from Pre-Trained Models
+  : [Slides](/physical_intelligence_fl25/assets/pdfs/)
 
 OCT 16
-: Tutorial on RL
-  : [Slides](./assets/pdfs/)
-
+: Tutorial on Theory for Imitation Learning
+  : [Slides](/physical_intelligence_fl25/assets/pdfs/)
 
 OCT 21
 : Midterm

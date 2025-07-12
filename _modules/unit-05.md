@@ -4,9 +4,13 @@ title: ToDo
 
 NOV 4
 : Guest Lecture I 
+  : [Slides](/physical_intelligence_fl25/assets/pdfs/)
+
 
 NOV 6
 : Guest Lecture II 
+  : [Slides](/physical_intelligence_fl25/assets/pdfs/)
+
 
 NOV 11
 : Race Day
@@ -14,18 +18,22 @@ NOV 11
 
 NOV 13
 : Guest Lecture III
+  : [Slides](/physical_intelligence_fl25/assets/pdfs/)
 
 
 NOV 18
 : Guest Lecture IV
+  : [Slides](/physical_intelligence_fl25/assets/pdfs/)
 
 
 NOV 20
 : Challenges ahead
+  : [Slides](/physical_intelligence_fl25/assets/pdfs/)
 
 
 NOV 25
 : The Illusion of Intelligence
+  : [Slides](/physical_intelligence_fl25/assets/pdfs/)
 
 
 NOV 27

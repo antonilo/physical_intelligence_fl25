@@ -42,18 +42,18 @@
     "relUrl": "/#foundation"
   },"6": {
     "doc": "Home",
+    "title": "Unit 02",
+    "content": "SEP 11 Intro to Reinforcement Learning; Robots Learning by Themselves Slides SEP 16 Policy Gradient Slides SEP 18 Action G…Tic, GAE Slides SEP 23 NPG, TRPO, PPO Slides SEP 25 Tutorial on RL Slides ",
+    "url": "/#unit-02",
+    
+    "relUrl": "/#unit-02"
+  },"7": {
+    "doc": "Home",
     "title": "Imitation Learning",
-    "content": "SEP 16 Imitation Learning I Slides SEP 18 Imitation Learning as Generative: AE; VAE, Diffusion Slides SEP 23 Diffusion Policy: Real-Time Diffusion Slides SEP 25 Learning from Pre-Trained Models Slides SEP 30 Tutorial on Theory for Imitation Learning Slides ",
+    "content": "SEP 30 Imitation Learning I Slides OCT 2 Imitation Learning as Generative: AE; VAE, Diffusion Slides OCT 7 Diffusion Policy: Real-Time Diffusion Slides OCT 9 No Class Fall Break 🏝️ OCT 14 Learning from Pre-Trained Models Slides OCT 16 Tutorial on Theory for Imitation Learning Slides OCT 21 Midterm ",
     "url": "/#imitation-learning",
     
     "relUrl": "/#imitation-learning"
-  },"7": {
-    "doc": "Home",
-    "title": "Reinforcement Learning",
-    "content": "SEP 30 Intro to Reinforcement Learning; Robots Learning by Themselves Slides OCT 2 Policy Gradient Slides OCT 7 Action G…Tic, GAE Slides OCT 9 No Class Fall Break 🏝️ OCT 14 NPG, TRPO, PPO Slides OCT 16 Tutorial on RL Slides OCT 21 Midterm ",
-    "url": "/#reinforcement-learning",
-    
-    "relUrl": "/#reinforcement-learning"
   },"8": {
     "doc": "Home",
     "title": "Phase I Race",
@@ -64,7 +64,7 @@
   },"9": {
     "doc": "Home",
     "title": "ToDo",
-    "content": "NOV 4 Guest Lecture I NOV 6 Guest Lecture II NOV 11 Race Day NOV 13 Guest Lecture III NOV 18 Guest Lecture IV NOV 20 Challenges ahead NOV 25 The Illusion of Intelligence NOV 27 No Class Thanksgiving :turkey: DEC 2 Recitation DEC 4 Final Race ",
+    "content": "NOV 4 Guest Lecture I Slides NOV 6 Guest Lecture II Slides NOV 11 Race Day NOV 13 Guest Lecture III Slides NOV 18 Guest Lecture IV Slides NOV 20 Challenges ahead Slides NOV 25 The Illusion of Intelligence Slides NOV 27 No Class Thanksgiving :turkey: DEC 2 Recitation DEC 4 Final Race ",
     "url": "/#todo",
     
     "relUrl": "/#todo"
