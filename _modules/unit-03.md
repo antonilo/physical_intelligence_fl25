@@ -18,7 +18,7 @@ OCT 7
   : [Slides](/physical_intelligence_fl25/assets/pdfs/)
 
 OCT 9
-: **No Class**{: .label .label-purple} Fall Break 🏝️
+: **No Class**{: .label .label-purple} Fall Break :fallen_leaf:
 
 
 OCT 14
