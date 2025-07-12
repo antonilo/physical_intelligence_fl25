@@ -42,11 +42,11 @@
     "relUrl": "/#foundation"
   },"6": {
     "doc": "Home",
-    "title": "Unit 02",
+    "title": "Reinforcement Learning",
     "content": "SEP 11 Intro to Reinforcement Learning; Robots Learning by Themselves Slides SEP 16 Policy Gradient Slides SEP 18 Action G…Tic, GAE Slides SEP 23 NPG, TRPO, PPO Slides SEP 25 Tutorial on RL Slides ",
-    "url": "/#unit-02",
+    "url": "/#reinforcement-learning",
     
-    "relUrl": "/#unit-02"
+    "relUrl": "/#reinforcement-learning"
   },"7": {
     "doc": "Home",
     "title": "Imitation Learning",
@@ -57,7 +57,7 @@
   },"8": {
     "doc": "Home",
     "title": "Phase I Race",
-    "content": "OCT 23 Building a Simulator Slides OCT 28 Sim2Real: Intro &amp; Basics Race challenge is out OCT 30 Sim2Real: Tips &amp; Tricks ",
+    "content": "OCT 23 Building a Simulator Slides OCT 28 Sim2Real: Intro &amp; Basics Slides Race challenge is out . OCT 30 Sim2Real: Tips &amp; Tricks Slides ",
     "url": "/#phase-i-race",
     
     "relUrl": "/#phase-i-race"
