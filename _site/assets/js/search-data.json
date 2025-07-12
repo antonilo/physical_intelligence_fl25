@@ -56,11 +56,11 @@
     "relUrl": "/#reinforcement-learning"
   },"8": {
     "doc": "Home",
-    "title": "Frontiers",
-    "content": ". Apr. 1 Robot Design Paper Reading A Mathematical Theory of Co-Design, Leonardo Apr. 3 Safety Paper Reading Conformal Intro (Ch. 1 &amp; 2), Robot Help Apr. 8 Multi-Agent Intelligence Paper Reading Drone Swarm Control Dialectic Collaboration Apr. 10 Guest Lecture Dhruv Shah Apr. 15 Learning from Human Feedback Paper Reading TAMER Aligning HR Representations Apr. 17 Guest Lecture Siddhartha Srinivasa ",
-    "url": "/#frontiers",
+    "title": "Phase I Race",
+    "content": "OCT 23 Building a Simulator Slides OCT 28 Sim2Real: Intro &amp; Basics Race challenge is out OCT 30 Sim2Real: Tips &amp; Tricks ",
+    "url": "/#phase-i-race",
     
-    "relUrl": "/#frontiers"
+    "relUrl": "/#phase-i-race"
   },"9": {
     "doc": "Home",
     "title": "ToDo",
