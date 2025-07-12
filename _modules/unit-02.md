@@ -11,12 +11,12 @@ SEP 16
   : [Slides](/physical_intelligence_fl25/assets/pdfs/)
 
 SEP 18
-: Action G...Tic, GAE 
+: Actor Critic
   : [Slides](/physical_intelligence_fl25/assets/pdfs/) 
 
 
 SEP 23
-: NPG, TRPO, PPO 
+: Advanced Policy Gradient (NPG, TRPO, PPO) 
   : [Slides](/physical_intelligence_fl25/assets/pdfs/)
 
 SEP 25

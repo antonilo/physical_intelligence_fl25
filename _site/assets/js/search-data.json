@@ -43,7 +43,7 @@
   },"6": {
     "doc": "Home",
     "title": "Reinforcement Learning",
-    "content": "SEP 11 Intro to Reinforcement Learning; Robots Learning by Themselves Slides SEP 16 Policy Gradient Slides SEP 18 Action G…Tic, GAE Slides SEP 23 NPG, TRPO, PPO Slides SEP 25 Tutorial on RL Slides ",
+    "content": "SEP 11 Intro to Reinforcement Learning; Robots Learning by Themselves Slides SEP 16 Policy Gradient Slides SEP 18 Actor Critic Slides SEP 23 Advanced Policy Gradient (NPG, TRPO, PPO) Slides SEP 25 Tutorial on RL Slides ",
     "url": "/#reinforcement-learning",
     
     "relUrl": "/#reinforcement-learning"
