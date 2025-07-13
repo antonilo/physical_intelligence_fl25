@@ -2,19 +2,17 @@
 title: Imitation Learning
 --- 
 
-
-
 SEP 30 
-: Imitation Learning I
+: Intro to Imitation Learning
   : [Slides](/physical_intelligence_fl25/assets/pdfs/)
 
 
 OCT 2
-: Imitation Learning as Generative: AE; VAE, Diffusion 
+: Imitation Learning as Generative Modeling: AE; VAE, Diffusion 
   : [Slides](/physical_intelligence_fl25/assets/pdfs/)
 
 OCT 7
-: Diffusion Policy: Real-Time Diffusion
+: Behavioral Models 
   : [Slides](/physical_intelligence_fl25/assets/pdfs/)
 
 OCT 9
@@ -26,7 +24,7 @@ OCT 14
   : [Slides](/physical_intelligence_fl25/assets/pdfs/)
 
 OCT 16
-: Tutorial on Theory for Imitation Learning
+: Tutorial on Imitation Learning
   : [Slides](/physical_intelligence_fl25/assets/pdfs/)
 
 OCT 21

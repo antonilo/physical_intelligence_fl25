@@ -3,7 +3,7 @@ title: Reinforcement Learning
 ---
 
 SEP 11
-: Intro to Reinforcement Learning; Robots Learning by Themselves
+: Intro to Reinforcement Learning
   : [Slides](/physical_intelligence_fl25/assets/pdfs/)
 
 SEP 16

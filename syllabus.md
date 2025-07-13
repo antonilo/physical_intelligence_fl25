@@ -15,23 +15,6 @@ description: Course policies.
 
 ---
 
-## Overview
-
-Decision-making has been a cornerstone of artificial intelligence since the field's inception in the 1960s. While the techniques and algorithms have evolved dramatically over time, the fundamental challenge remains: how to make intelligent decisions in the presence of uncertainty. Over the past six decades, this research has led to the development of highly advanced systems, with some achieving superhuman performance in cognitively demanding tasks like Go, Atari, Gran Turismo, Chess, StarCraft, and SOTA.
-
-However, despite these remarkable successes, most of these systems excel only in controlled, simulated, or game-based environments. Why haven’t the same methods translated seamlessly to real-world decision-making, such as controlling a physical robot to perform household tasks? What makes real-world environments so uniquely challenging? And what recent advances are pushing the boundaries of what’s possible in real-world applications?
-
-This course offers a structured framework to explore these questions. We will study techniques for learning-based decision-making, such as imitation learning and reinforcement learning, focusing on their practical challenges when applied in real-world scenarios. Through a combination of lectures, student presentations, hands-on projects, and guest presentations from leading experts in the field, students will gain a deep understanding of the state-of-the-art decision-making systems and their challenges when applied to robotics.
-
-## Logistics
-- **Title**: Real-World Robot Learning, Spring 2025
-- **Course Number**: ESE 6800-004 
-- **Lecture**: 10:15AM--11:45AM EST, Tue & Thu
-- **Office Hours**: TBD
-- **Location**: AGH 105
-
-## Prerequisites
-This is a graduate-level course. Students are expected to have prior knowledge in deep learning and robotics, such as the topics covered in Robot Learning (ESE 650), Principles of Deep Learning (ESE 546), Applied Machine Learning (CIS 5190), and Introduction to Robotics (MEAM-520).
 
 ## Textbooks
 There is no need buy any textbook for this course. We will provide slides or lecture notes in this course. The following are companion textbooks that can provide useful further reading: 
@@ -56,50 +39,18 @@ from a person, reference, or a tool (including AI-generation tools like ChatGPT)
 
 ## Late Policy
 
-Paper summaries are due right before the class starts. Reading and summarizing papers is necessary to foster good discussions. However, it might happen that one forgets to submit a summary, or circumstances arises. You can skip up to two summaries without any penalty. All skipped summaries after the second will receive a zero grade. There is no late policy for summaries. If you submit after the class, the summary is considered as "not submitted".
-
-You can use a maximum of 3 late days for project proposals, midterms, and final report. A day is counted starting from 1 hour after the deadline. For instance, if your report is due on Monday at 10AM and you submit at 11:01AM, you have used one late day. After using three late days, the assignment will be given a grade of zero.
-
-Unexcused late presentations will immediately receive a zero grade, because they will affect our ability to hold class. Re-scheduling presentations will be based on schedule availability and the professors' discretion.
-
-If you experience an unforseeable emergency and would like us to consider
-waiving any of the above penalties, please email us as early as possible to discuss this request. 
+The only time when students have to submit something for this class is for the drone racing competition. The event will be live, so not submitting runnable code on time will be equivalent to a fail grade for the entire team. Not coming to the midterm or final exam will result to a fail grade. No exceptions will be granted.    
 
 
 ## Communication
-- **Website**: We will use the class website for posting course content (e.g., slides, paper readings, lecture recordings). 
-- **Canvas**: We will use Canvas for uploading all assignments and grades. 
+- **Website**: We will use the class website for posting course content (e.g., slides). 
+- **Canvas**: We will use Canvas for uploading all assignments. 
 - **Email**: If you email your instructors, please include the substring "[RWRL Course]" to begin a meaningful subject line and have tried to resolve the issue appropriately otherwise. Please use your UPenn email account.
 
 ## Grading
-This course will have no exams. Instead, grading will be broken down by 
 
-- **Attendance**: We want students to attend lectures in person consistently. Students are permitted *2 unexcused absences*, no questions asked, before being docked.
-- **Paper Summaries, Discussion, and Presentations**: One goal we have for this course is for you to understand how to consume, explain, and critique research papers.  Paper summaries are 1-2 paragraph descriptions (per paper) of the reading assignments that will be submitted to Canvas. Canvas notes are short comments about the work (can be a limitation, an observation, etc.). Paper presentations occur during in-class discussions. 
-- **Project**: Students will engage in a semester-long research project related to the themes of the course before presenting them at the end of the semester. 
-- **Extra Credits**: You will receive extra credits for the following activities:
-- Run experiments with the code of the paper you're presenting, showing your empirical analysis during the presentation.
-- Attend Talks and Events: There will be some interesting talks and events throughout the semester, which we will advertise. Going to the talk and submitting a summary of the talk on Canvas will give you extra credits.
+Grading details will be provided in the slides from the first class. Overall, your final grade will be based on a combination of exams and your performance in the drone race.
 
-Percentage | Activity  | 
-------|-----|
-10%| Attendance and Discussion |
-30%| Paper Summaries & Comments |
-20%| Paper Presentation |
-10%| Midterm Project Report |
-30%| Final Project (Presentation + Report) |
-
-## Paper Summaries & Presentations
-### Paper Summaries
-There will be several paper discussion days during which you will be as-
-signed research papers to read. You are expected to complete all assigned readings before class
-and come prepared with comments and questions to discuss with the group. You will share 1–2
-paragraphs with your takeaways (per paper) on each reading on Canvas, by **9:59am ET of the
-day the reading will be discussed.**
-
-### Paper Presentations
-During paper discussion days, we will dive into two or three papers. You will be able to decide 
-which discussion topic you want to be assigned to (first come, first serve). You will present one paper from that topic. *(Note: this paper presentation structure is subject to change based on class size).*
 
 ## Health & Wellness
 Take care of yourself. Do your best to maintain a healthy lifestyle this semester by eating well, exercising, avoiding drugs and alcohol, getting enough sleep and taking some time to relax. This will help you achieve your goals and cope with stress.

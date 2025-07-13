@@ -1,7 +1,6 @@
 ---
-title: Get ready for the hands-on tutorial and first papers!
-week: 2
-date: 2024-01-26
+title: First day of class.
+week: 1
+date: 2025-08-26
 ---
-
-Please sign up for a weight and biases and huggingface account before our hands-on tutorial on policy learning. Also, we released the first papers!
+I will be giving a talk at the Meta workshop on egocentric perception on Aug 25-26. The first day of class will be after the workshop.

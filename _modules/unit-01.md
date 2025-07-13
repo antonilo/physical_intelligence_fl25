@@ -8,7 +8,7 @@ AUG 28
   : [Slides](/physical_intelligence_fl25/assets/pdfs/)
 
 SEP 2
-: What is a Robot? The issues of the control hierarchy.
+: What is a Robot?
   : [Slides](/physical_intelligence_fl25/assets/pdfs/)
 
 SEP4

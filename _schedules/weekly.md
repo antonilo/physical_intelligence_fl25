@@ -25,13 +25,13 @@ schedule:
       - name: Lecture
         start: 10:15 AM
         end: 11:45 AM
-        location: AGH 103
+        location: TODO
   - name: Wednesday
   - name: Thursday
     events:
       - name: Lecture
         start: 10:15 AM
         end: 11:45 AM
-        location: AGH 103
+        location: TODO
   - name: Friday
 ---

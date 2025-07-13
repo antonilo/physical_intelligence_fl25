@@ -4,11 +4,11 @@ title: Home
 permalink: /:path/
 seo:
   type: Course
-  name: Real World Robot Learning 
+  name: Physical Intelligence: Foundation and Systems 
 ---
 
 # Real-World Robot Learning 
-Spring 2025. ESE 6800/CS7000. Tue / Thu 10:15-11:45. AGH 105.
+Spring 2025. ESE 6510. Tue / Thu 10:15-11:45. AGH X.
 
 ![Image](/assets/images/front_page.png)
 
@@ -20,21 +20,16 @@ Spring 2025. ESE 6800/CS7000. Tue / Thu 10:15-11:45. AGH 105.
 
 ## Course Overview 
 
-Decision-making has been a cornerstone of artificial intelligence since the field's inception in the 1960s. While the techniques and algorithms have evolved dramatically over time, the fundamental challenge remains: how to make intelligent decisions in the presence of uncertainty. Over the past six decades, this research has led to the development of highly advanced systems, with some achieving superhuman performance in cognitively demanding tasks like Go, Atari, Gran Turismo, Chess, StarCraft, and SOTA.
+Why don't we yet have a foundation model that can operate robots in the physical world? What makes applying the standard pre-training approach so uniquely challenging in robotics? And what recent advances are pushing the boundaries of what’s possible in real-world applications?
 
-However, despite these remarkable successes, most of these systems excel only in controlled, simulated, or game-based environments. Why haven’t the same methods translated seamlessly to real-world decision-making, such as controlling a physical robot to perform household tasks? What makes real-world environments so uniquely challenging? And what recent advances are pushing the boundaries of what’s possible in real-world applications?
-
-This course offers a structured framework to explore these questions. We will study techniques for learning-based decision-making, such as imitation learning and reinforcement learning, focusing on their practical challenges when applied in real-world scenarios. Through a combination of lectures, student presentations, hands-on projects, and guest presentations from leading experts in the field, students will gain a deep understanding of the state-of-the-art decision-making systems and their challenges when applied to robotics.
+This course offers a structured framework to explore these questions. We will study the mathematical foundations of techniques for learning-based decision-making and examine how these methods are deployed in robotic systems. Through a combination of lectures, hands-on projects (including a drone race!), and guest presentations from leading experts in the field, students will gain a deep understanding of the state-of-the-art decision-making systems and their challenges when applied to robotics.
 
 ### Prerequisites
 
-This is a graduate-level course. Students are expected to have prior knowledge in deep learning and robotics, such as the topics covered in Robot Learning (ESE 650), Principles of Deep Learning (ESE 546), Applied Machine Learning (CIS 5190), and Introduction to Robotics (MEAM-520).
+This is a graduate-level course. Students are expected to have prior knowledge in deep learning and robotics, such as the topics covered in Robot Learning (ESE 650), Applied Machine Learning (CIS 5190), and Introduction to Robotics (MEAM-520).
 
 
-
-## Schedule (Tentative) 
-
-The general idea behind this course is the following. We will start by going off the beaten arxiv track and read oldy but goldy papers. Then, we will use such papers to understand the roots of more recent works. Note that this schedule will evolve during the course.
+## Schedule 
 
 {% for module in site.modules %}
 {{ module }}
@@ -59,7 +54,7 @@ The general idea behind this course is the following. We will start by going off
 </figure>
 
 
-## Teaching Assistants 
+<!-- ## Teaching Assistants 
 
 <figure style="display: inline-flex;">
 
@@ -75,14 +70,16 @@ The general idea behind this course is the following. We will start by going off
 </a></figcaption>
 </figure>
 
-</figure>
+</figure> -->
 
 ## Related Courses
 
-
 <a href="https://robots-that-learn.github.io/"> Robots that learn</a>, UC Berkeley.
 
-<a href="https://docs.google.com/document/u/1/d/e/2PACX-1vQaioAfwh81lxb3Z3B-Qf83I8DSb6Xu1z7KBbcJBxBrutR6qVEZ12lig5rEgfyq31Ojamf8JeVzSvVg/pub"> Visual Scene Understanding</a>, UC Berkeley.
+Deep Reinforcement Learning: <a href="https://cmudeeprl.github.io/403website_s25/"> CMU version</a> <a href="https://rail.eecs.berkeley.edu/deeprlcourse/"> UC Berkeley version</a>.
+
+<a href="https://16-831-s24.github.io/"> Introduction to Robot Learning</a>, CMU.
+
 
 <a href="https://abajcsy.github.io/embodied-ai-safety/">Embodied AI Safety</a>, CMU. This course is not only very interesting, but also has an awesome webpage.
 

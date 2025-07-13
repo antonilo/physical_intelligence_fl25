@@ -1,5 +1,5 @@
 ---
-title: ToDo
+title: Applications and Frontiers
 ---
 
 NOV 4
@@ -13,7 +13,7 @@ NOV 6
 
 
 NOV 11
-: Race Day
+: Race Day (Phase I) 
 
 
 NOV 13
@@ -45,6 +45,6 @@ DEC 2
 
 
 DEC 4
-: Final Race
+: Race Day (Phase II)
 
 
