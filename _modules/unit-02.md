@@ -1,26 +1,20 @@
 ---
-title: Reinforcement Learning
+title: Phase 1 Race 
 ---
 
+
 SEP 11
-: Intro to Reinforcement Learning
+: Building a Simulator
   : [Slides](/physical_intelligence_fl25/assets/pdfs/)
 
 SEP 16
-: Policy Gradient
+: Sim2Real: Intro & Basics
   : [Slides](/physical_intelligence_fl25/assets/pdfs/)
+
+: Race challenge is out
 
 SEP 18
-: Actor Critic
-  : [Slides](/physical_intelligence_fl25/assets/pdfs/) 
-
-
-SEP 23
-: Advanced Policy Gradient (NPG, TRPO, PPO) 
-  : [Slides](/physical_intelligence_fl25/assets/pdfs/)
-
-SEP 25
-: Tutorial on RL 
+: Sim2Real: Tips & Tricks
   : [Slides](/physical_intelligence_fl25/assets/pdfs/)
 
 

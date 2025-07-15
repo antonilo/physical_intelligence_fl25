@@ -1,20 +1,33 @@
 ---
-title: Phase I Race 
----
+title: Imitation Learning
+--- 
+
+OCT 9
+: Intro to Imitation Learning
+  : [Slides](/physical_intelligence_fl25/assets/pdfs/)
+
+
+OCT 14
+: Imitation Learning as Generative Modeling: AE; VAE, Diffusion 
+  : [Slides](/physical_intelligence_fl25/assets/pdfs/)
+
+OCT 16
+: Behavioral Models 
+  : [Slides](/physical_intelligence_fl25/assets/pdfs/)
+
+OCT 21
+: **No Class**{: .label .label-purple} Fall Break :fallen_leaf:
+
 
 OCT 23
-: Building a Simulator
+: Learning from Pre-Trained Models
   : [Slides](/physical_intelligence_fl25/assets/pdfs/)
 
 OCT 28
-: Sim2Real: Intro & Basics
+: Tutorial on Imitation Learning
   : [Slides](/physical_intelligence_fl25/assets/pdfs/)
-
-: Race challenge is out
 
 OCT 30
-: Sim2Real: Tips & Tricks
-  : [Slides](/physical_intelligence_fl25/assets/pdfs/)
-
+: Midterm
 
 

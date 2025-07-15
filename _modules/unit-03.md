@@ -1,34 +1,27 @@
 ---
-title: Imitation Learning
---- 
+title: Reinforcement Learning
+---
+
+SEP 23
+: Intro to Reinforcement Learning
+  : [Slides](/physical_intelligence_fl25/assets/pdfs/)
+
+
+SEP 25
+: Policy Gradient
+  : [Slides](/physical_intelligence_fl25/assets/pdfs/)
 
 SEP 30 
-: Intro to Imitation Learning
-  : [Slides](/physical_intelligence_fl25/assets/pdfs/)
+: Actor Critic
+  : [Slides](/physical_intelligence_fl25/assets/pdfs/) 
 
 
 OCT 2
-: Imitation Learning as Generative Modeling: AE; VAE, Diffusion 
+: Advanced Policy Gradient (NPG, TRPO, PPO) 
   : [Slides](/physical_intelligence_fl25/assets/pdfs/)
 
 OCT 7
-: Behavioral Models 
+: Tutorial on RL 
   : [Slides](/physical_intelligence_fl25/assets/pdfs/)
-
-OCT 9
-: **No Class**{: .label .label-purple} Fall Break :fallen_leaf:
-
-
-OCT 14
-: Learning from Pre-Trained Models
-  : [Slides](/physical_intelligence_fl25/assets/pdfs/)
-
-OCT 16
-: Tutorial on Imitation Learning
-  : [Slides](/physical_intelligence_fl25/assets/pdfs/)
-
-OCT 21
-: Midterm
-
 
 
