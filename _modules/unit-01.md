@@ -11,7 +11,7 @@ SEP 2
 : What is a Robot?
   : [Slides](/physical_intelligence_fl25/assets/pdfs/)
 
-SEP4
+SEP 4
 : Intro to Probability I 
   : [Slides](/physical_intelligence_fl25/assets/pdfs/)
 
