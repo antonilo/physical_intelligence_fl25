@@ -3,13 +3,13 @@ title: Applications and Frontiers
 ---
 
 NOV 4
-: Guest Lecture I 
-  : [Slides](/physical_intelligence_fl25/assets/pdfs/)
+: Guest Lecture I  
+  : [Homanga Bharadhwaj](https://homangab.github.io/)
 
 
 NOV 6
 : Guest Lecture II 
-  : [Slides](/physical_intelligence_fl25/assets/pdfs/)
+  : [Rachel Holladay](https://www.seas.upenn.edu/~rhollada/)
 
 
 NOV 11
@@ -18,12 +18,12 @@ NOV 11
 
 NOV 13
 : Guest Lecture III
-  : [Slides](/physical_intelligence_fl25/assets/pdfs/)
+  : [Yunzhu Li](https://yunzhuli.github.io)
 
 
 NOV 18
 : Guest Lecture IV
-  : [Slides](/physical_intelligence_fl25/assets/pdfs/)
+  : [Haozhi Qi](https://haozhi.io)
 
 
 NOV 20
