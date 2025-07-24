@@ -11,7 +11,6 @@ SEP 16
 : Policy Gradient
   : [Slides](/physical_intelligence_fl25/assets/pdfs/)
 
-: Race challenge is out
 
 SEP 18
 : Actor Critic
