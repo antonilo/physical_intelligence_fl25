@@ -45,14 +45,6 @@ This is a graduate-level course. Students are expected to have prior knowledge i
 </a></figcaption>
 </figure>
 
-<figure>
-<img src="/real_world_robot_learning_sp25/assets/images/dj.jpg" alt="Avatar" style="width:200px; height:auto; object-fit: cover; border-radius:50%; padding:20px;">
-<figcaption style="text-align: center;"><a href="https://www.seas.upenn.edu/~dineshj/"><button type="button" name="button" class="btn">Dinesh Jayaraman</button>
-</a></figcaption>
-</figure>
-
-</figure>
-
 
 <!-- ## Teaching Assistants 
 

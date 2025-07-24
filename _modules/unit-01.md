@@ -8,13 +8,13 @@ AUG 28
   : [Slides](/physical_intelligence_fl25/assets/pdfs/)
 
 SEP 2
-: What is a Robot?
+: What is a Robot? Actuation
   : [Slides](/physical_intelligence_fl25/assets/pdfs/)
 
 SEP 4
-: Intro to Probability I 
+: What is a Robot? Perception
   : [Slides](/physical_intelligence_fl25/assets/pdfs/)
 
 SEP 9
-: Intro to Probability II
+: Intro to Probability I
   : [Slides](/physical_intelligence_fl25/assets/pdfs/)
