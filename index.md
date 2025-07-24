@@ -45,6 +45,8 @@ This is a graduate-level course. Students are expected to have prior knowledge i
 </a></figcaption>
 </figure>
 
+</figure>
+
 
 <!-- ## Teaching Assistants 
 
