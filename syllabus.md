@@ -28,6 +28,9 @@ You are expected to attend class in person during the scheduled time, including 
 observance, etc.). However, if you anticipate having a challenge regularly attending class, please
 contact us.
 
+## Holiday Policy
+This course will follow the University Policy on Secular & Religious Holidays which can be found in the PennBook. No exams or assigned work will be required on those holidays listed in sections 1 & 2 of the policy.  Students who plan to observe any other holiday should contact the instructor within the first two weeks of class so that alternative arrangements can be made.
+
 ## Academic Integrity
 Honesty and transparency are important features of good scholarship. On the flip side, plagiarism and cheating are serious academic offenses with serious consequences. If you are discovered engaging in either behavior in this course, you will earn a failing grade on the assignment
 in question, and further disciplinary action may be taken.
@@ -38,7 +41,6 @@ acknowledge any collaboration or assistance that you receive on work that is to 
 from a person, reference, or a tool (including AI-generation tools like ChatGPT).
 
 ## Late Policy
-
 The only time when students have to submit something for this class is for the drone racing competition. The event will be live, so not submitting runnable code on time will be equivalent to a fail grade for the entire team. Not coming to the midterm or final exam will result to a fail grade. No exceptions will be granted.    
 
 
@@ -48,7 +50,6 @@ The only time when students have to submit something for this class is for the d
 - **Email**: If you email your instructors, please include the substring "[RWRL Course]" to begin a meaningful subject line and have tried to resolve the issue appropriately otherwise. Please use your UPenn email account.
 
 ## Grading
-
 Grading details will be provided in the slides from the first class. Overall, your final grade will be based on a combination of exams and your performance in the drone race.
 
 

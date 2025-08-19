@@ -1,256 +1,207 @@
 {"0": {
-    "doc": "Home",
+    "doc": "Real-World Robot Learning",
     "title": "Real-World Robot Learning",
-    "content": "Spring 2025. ESE 6800/CS7000. Tue / Thu 10:15-11:45. AGH 105. ",
-    "url": "/#real-world-robot-learning",
+    "content": "Spring 2025. ESE 6510. Tue / Thu 10:15-11:45. AGH X. ",
+    "url": "/",
     
-    "relUrl": "/#real-world-robot-learning"
+    "relUrl": "/"
   },"1": {
-    "doc": "Home",
+    "doc": "Real-World Robot Learning",
     "title": "Announcements",
     "content": " ",
     "url": "/#announcements",
     
     "relUrl": "/#announcements"
   },"2": {
-    "doc": "Home",
-    "title": "Get ready for the hands-on tutorial and first papers!",
-    "content": "Jan 26 &middot; 0 min read Please sign up for a weight and biases and huggingface account before our hands-on tutorial on policy learning. Also, we released the first papers! . ",
+    "doc": "Real-World Robot Learning",
+    "title": "First day of class.",
+    "content": "Aug 26 &middot; 0 min read I will be giving a talk at the Meta workshop on egocentric perception on Aug 25-26. The first day of class will be after the workshop. ",
     "url": "/",
     
     "relUrl": "/"
   },"3": {
-    "doc": "Home",
+    "doc": "Real-World Robot Learning",
     "title": "Course Overview",
-    "content": "Decision-making has been a cornerstone of artificial intelligence since the field’s inception in the 1960s. While the techniques and algorithms have evolved dramatically over time, the fundamental challenge remains: how to make intelligent decisions in the presence of uncertainty. Over the past six decades, this research has led to the development of highly advanced systems, with some achieving superhuman performance in cognitively demanding tasks like Go, Atari, Gran Turismo, Chess, StarCraft, and SOTA. However, despite these remarkable successes, most of these systems excel only in controlled, simulated, or game-based environments. Why haven’t the same methods translated seamlessly to real-world decision-making, such as controlling a physical robot to perform household tasks? What makes real-world environments so uniquely challenging? And what recent advances are pushing the boundaries of what’s possible in real-world applications? . This course offers a structured framework to explore these questions. We will study techniques for learning-based decision-making, such as imitation learning and reinforcement learning, focusing on their practical challenges when applied in real-world scenarios. Through a combination of lectures, student presentations, hands-on projects, and guest presentations from leading experts in the field, students will gain a deep understanding of the state-of-the-art decision-making systems and their challenges when applied to robotics. Prerequisites . This is a graduate-level course. Students are expected to have prior knowledge in deep learning and robotics, such as the topics covered in Robot Learning (ESE 650), Principles of Deep Learning (ESE 546), Applied Machine Learning (CIS 5190), and Introduction to Robotics (MEAM-520). ",
+    "content": "Why don’t we yet have a foundation model that can operate robots in the physical world? What makes applying the standard pre-training approach so uniquely challenging in robotics? And what recent advances are pushing the boundaries of what’s possible in real-world applications? . This course offers a structured framework to explore these questions. We will study the mathematical foundations of techniques for learning-based decision-making and examine how these methods are deployed in robotic systems. Through a combination of lectures, hands-on projects (including a drone race!), and guest presentations from leading experts in the field, students will gain a deep understanding of the state-of-the-art decision-making systems and their challenges when applied to robotics. Prerequisites . This is a graduate-level course. Students are expected to have prior knowledge in deep learning and robotics, such as the topics covered in Robot Learning (ESE 650), Applied Machine Learning (CIS 5190), and Introduction to Robotics (MEAM-520). ",
     "url": "/#course-overview",
     
     "relUrl": "/#course-overview"
   },"4": {
-    "doc": "Home",
-    "title": "Schedule (Tentative)",
-    "content": "The general idea behind this course is the following. We will start by going off the beaten arxiv track and read oldy but goldy papers. Then, we will use such papers to understand the roots of more recent works. Note that this schedule will evolve during the course. ",
-    "url": "/#schedule-tentative",
+    "doc": "Real-World Robot Learning",
+    "title": "Schedule",
+    "content": " ",
+    "url": "/#schedule",
     
-    "relUrl": "/#schedule-tentative"
+    "relUrl": "/#schedule"
   },"5": {
-    "doc": "Home",
+    "doc": "Real-World Robot Learning",
     "title": "Foundation",
-    "content": "AUG 28 Intro Syllabus, Slides SEP 2 What is a Robot? The issues of the control hierarchy. Slides SEP4 Intro to Probability I Slides SEP 9 Intro to Probability II Slides ",
+    "content": "AUG 28 Intro Syllabus, Slides SEP 2 What is a Robot? Slides SEP 4 Intro to Probability I Slides SEP 9 Intro to Probability II Slides ",
     "url": "/#foundation",
     
     "relUrl": "/#foundation"
   },"6": {
-    "doc": "Home",
+    "doc": "Real-World Robot Learning",
+    "title": "Phase 1 Race",
+    "content": "SEP 11 Building a Simulator Slides SEP 16 Sim2Real: Intro &amp; Basics Slides Race challenge is out . SEP 18 Sim2Real: Tips &amp; Tricks Slides ",
+    "url": "/#phase-1-race",
+    
+    "relUrl": "/#phase-1-race"
+  },"7": {
+    "doc": "Real-World Robot Learning",
     "title": "Reinforcement Learning",
-    "content": "SEP 11 Intro to Reinforcement Learning; Robots Learning by Themselves Slides SEP 16 Policy Gradient Slides SEP 18 Actor Critic Slides SEP 23 Advanced Policy Gradient (NPG, TRPO, PPO) Slides SEP 25 Tutorial on RL Slides ",
+    "content": "SEP 23 Intro to Reinforcement Learning Slides SEP 25 Policy Gradient Slides SEP 30 Actor Critic Slides OCT 2 Advanced Policy Gradient (NPG, TRPO, PPO) Slides OCT 7 Tutorial on RL Slides ",
     "url": "/#reinforcement-learning",
     
     "relUrl": "/#reinforcement-learning"
-  },"7": {
-    "doc": "Home",
+  },"8": {
+    "doc": "Real-World Robot Learning",
     "title": "Imitation Learning",
-    "content": "SEP 30 Imitation Learning I Slides OCT 2 Imitation Learning as Generative: AE; VAE, Diffusion Slides OCT 7 Diffusion Policy: Real-Time Diffusion Slides OCT 9 No Class Fall Break 🏝️ OCT 14 Learning from Pre-Trained Models Slides OCT 16 Tutorial on Theory for Imitation Learning Slides OCT 21 Midterm ",
+    "content": "OCT 9 Intro to Imitation Learning Slides OCT 14 Imitation Learning as Generative Modeling: AE; VAE, Diffusion Slides OCT 16 Behavioral Models Slides OCT 21 No Class Fall Break :fallen_leaf: OCT 23 Learning from Pre-Trained Models Slides OCT 28 Tutorial on Imitation Learning Slides OCT 30 Midterm ",
     "url": "/#imitation-learning",
     
     "relUrl": "/#imitation-learning"
-  },"8": {
-    "doc": "Home",
-    "title": "Phase I Race",
-    "content": "OCT 23 Building a Simulator Slides OCT 28 Sim2Real: Intro &amp; Basics Slides Race challenge is out . OCT 30 Sim2Real: Tips &amp; Tricks Slides ",
-    "url": "/#phase-i-race",
-    
-    "relUrl": "/#phase-i-race"
   },"9": {
-    "doc": "Home",
-    "title": "ToDo",
-    "content": "NOV 4 Guest Lecture I Slides NOV 6 Guest Lecture II Slides NOV 11 Race Day NOV 13 Guest Lecture III Slides NOV 18 Guest Lecture IV Slides NOV 20 Challenges ahead Slides NOV 25 The Illusion of Intelligence Slides NOV 27 No Class Thanksgiving :turkey: DEC 2 Recitation DEC 4 Final Race ",
-    "url": "/#todo",
+    "doc": "Real-World Robot Learning",
+    "title": "Applications and Frontiers",
+    "content": "NOV 4 Guest Lecture I Slides NOV 6 Guest Lecture II Slides NOV 11 Race Day (Phase I) NOV 13 Guest Lecture III Slides NOV 18 Guest Lecture IV Slides NOV 20 Challenges ahead Slides NOV 25 The Illusion of Intelligence Slides NOV 27 No Class Thanksgiving :turkey: DEC 2 Recitation DEC 4 Race Day (Phase II) ",
+    "url": "/#applications-and-frontiers",
     
-    "relUrl": "/#todo"
+    "relUrl": "/#applications-and-frontiers"
   },"10": {
-    "doc": "Home",
+    "doc": "Real-World Robot Learning",
     "title": "Instructors",
     "content": "Antonio Loquercio Dinesh Jayaraman ",
     "url": "/#instructors",
     
     "relUrl": "/#instructors"
   },"11": {
-    "doc": "Home",
-    "title": "Teaching Assistants",
-    "content": "Leon Kim Junyao Shi ",
-    "url": "/#teaching-assistants",
-    
-    "relUrl": "/#teaching-assistants"
-  },"12": {
-    "doc": "Home",
+    "doc": "Real-World Robot Learning",
     "title": "Related Courses",
-    "content": "Robots that learn, UC Berkeley. Visual Scene Understanding, UC Berkeley. Embodied AI Safety, CMU. This course is not only very interesting, but also has an awesome webpage. ",
+    "content": "Robots that learn, UC Berkeley. Deep Reinforcement Learning: CMU version UC Berkeley version. Introduction to Robot Learning, CMU. Embodied AI Safety, CMU. This course is not only very interesting, but also has an awesome webpage. ",
     "url": "/#related-courses",
     
     "relUrl": "/#related-courses"
-  },"13": {
-    "doc": "Home",
-    "title": "Home",
-    "content": " ",
-    "url": "/",
-    
-    "relUrl": "/"
-  },"14": {
+  },"12": {
     "doc": "Schedule",
     "title": "Weekly Schedule",
     "content": ". | 9:00 AM | 9:30 AM | 10:00 AM | 10:30 AM | 11:00 AM | 11:30 AM | 12:00 PM | 12:30 PM | 1:00 PM | 1:30 PM | 2:00 PM | 2:30 PM | 3:00 PM | 3:30 PM | 4:00 PM | 4:30 PM | 5:00 PM | 5:30 PM | . | ",
     "url": "/schedule/#weekly-schedule",
     
     "relUrl": "/schedule/#weekly-schedule"
-  },"15": {
+  },"13": {
     "doc": "Schedule",
     "title": "Monday",
     "content": "| ",
     "url": "/schedule/",
     
     "relUrl": "/schedule/"
-  },"16": {
+  },"14": {
     "doc": "Schedule",
     "title": "Tuesday",
-    "content": ". | Lecture 10:15 AM–11:45 AM AGH 103 | . | ",
+    "content": ". | Lecture 10:15 AM–11:45 AM TODO | . | ",
     "url": "/schedule/",
     
     "relUrl": "/schedule/"
-  },"17": {
+  },"15": {
     "doc": "Schedule",
     "title": "Wednesday",
     "content": "| ",
     "url": "/schedule/",
     
     "relUrl": "/schedule/"
-  },"18": {
+  },"16": {
     "doc": "Schedule",
     "title": "Thursday",
-    "content": ". | Lecture 10:15 AM–11:45 AM AGH 103 | . | ",
+    "content": ". | Lecture 10:15 AM–11:45 AM TODO | . | ",
     "url": "/schedule/",
     
     "relUrl": "/schedule/"
-  },"19": {
+  },"17": {
     "doc": "Schedule",
     "title": "Friday",
     "content": "| . ",
     "url": "/schedule/",
     
     "relUrl": "/schedule/"
-  },"20": {
+  },"18": {
     "doc": "Schedule",
     "title": "Schedule",
     "content": " ",
     "url": "/schedule/",
     
     "relUrl": "/schedule/"
-  },"21": {
+  },"19": {
     "doc": "Staff",
     "title": "Staff",
     "content": " ",
     "url": "/staff/",
     
     "relUrl": "/staff/"
-  },"22": {
+  },"20": {
     "doc": "Staff",
     "title": "Instructor",
-    "content": "Antonio Loquercio . aloque@seas.upenn.edu . Office Hours TBA . Dinesh Jayaraman . dineshj@seas.upenn.edu . Office Hours TBA . ",
+    "content": "Antonio Loquercio . aloque@seas.upenn.edu . Office Hours TBA . ",
     "url": "/staff/#instructor",
     
     "relUrl": "/staff/#instructor"
-  },"23": {
-    "doc": "Staff",
-    "title": "Teaching Assistant",
-    "content": "Junyao Shi . junys@seas.upenn.edu . Office Hours TBA . Leon Kim . leonmkim@seas.upenn.edu . Office Hours TBA . ",
-    "url": "/staff/#teaching-assistant",
-    
-    "relUrl": "/staff/#teaching-assistant"
-  },"24": {
+  },"21": {
     "doc": "Syllabus",
     "title": "Syllabus",
     "content": " ",
     "url": "/syllabus/",
     
     "relUrl": "/syllabus/"
-  },"25": {
+  },"22": {
     "doc": "Syllabus",
     "title": "Table of Contents",
-    "content": ". | Overview | Logistics | Prerequisites | Textbooks | Attendance | Academic Integrity | Late Policy | Communication | Grading | Paper Summaries &amp; Presentations . | Paper Summaries | Paper Presentations | . | Health &amp; Wellness | . ",
+    "content": ". | Textbooks | Attendance | Academic Integrity | Late Policy | Communication | Grading | Health &amp; Wellness | . ",
     "url": "/syllabus/#table-of-contents",
     
     "relUrl": "/syllabus/#table-of-contents"
-  },"26": {
-    "doc": "Syllabus",
-    "title": "Overview",
-    "content": "Decision-making has been a cornerstone of artificial intelligence since the field’s inception in the 1960s. While the techniques and algorithms have evolved dramatically over time, the fundamental challenge remains: how to make intelligent decisions in the presence of uncertainty. Over the past six decades, this research has led to the development of highly advanced systems, with some achieving superhuman performance in cognitively demanding tasks like Go, Atari, Gran Turismo, Chess, StarCraft, and SOTA. However, despite these remarkable successes, most of these systems excel only in controlled, simulated, or game-based environments. Why haven’t the same methods translated seamlessly to real-world decision-making, such as controlling a physical robot to perform household tasks? What makes real-world environments so uniquely challenging? And what recent advances are pushing the boundaries of what’s possible in real-world applications? . This course offers a structured framework to explore these questions. We will study techniques for learning-based decision-making, such as imitation learning and reinforcement learning, focusing on their practical challenges when applied in real-world scenarios. Through a combination of lectures, student presentations, hands-on projects, and guest presentations from leading experts in the field, students will gain a deep understanding of the state-of-the-art decision-making systems and their challenges when applied to robotics. ",
-    "url": "/syllabus/#overview",
-    
-    "relUrl": "/syllabus/#overview"
-  },"27": {
-    "doc": "Syllabus",
-    "title": "Logistics",
-    "content": ". | Title: Real-World Robot Learning, Spring 2025 | Course Number: ESE 6800-004 | Lecture: 10:15AM–11:45AM EST, Tue &amp; Thu | Office Hours: TBD | Location: AGH 105 | . ",
-    "url": "/syllabus/#logistics",
-    
-    "relUrl": "/syllabus/#logistics"
-  },"28": {
-    "doc": "Syllabus",
-    "title": "Prerequisites",
-    "content": "This is a graduate-level course. Students are expected to have prior knowledge in deep learning and robotics, such as the topics covered in Robot Learning (ESE 650), Principles of Deep Learning (ESE 546), Applied Machine Learning (CIS 5190), and Introduction to Robotics (MEAM-520). ",
-    "url": "/syllabus/#prerequisites",
-    
-    "relUrl": "/syllabus/#prerequisites"
-  },"29": {
+  },"23": {
     "doc": "Syllabus",
     "title": "Textbooks",
     "content": "There is no need buy any textbook for this course. We will provide slides or lecture notes in this course. The following are companion textbooks that can provide useful further reading: . | Richard S. Sutton and Andrew G. Barto, Reinforcement Learning: An Introduction | Christopher Bishop and Hugh Bishop, Deep Learning: Foundations and Concepts | . ",
     "url": "/syllabus/#textbooks",
     
     "relUrl": "/syllabus/#textbooks"
-  },"30": {
+  },"24": {
     "doc": "Syllabus",
     "title": "Attendance",
     "content": "Class attendance and participation are key for both your and your peer’s success in this class. You are expected to attend class in person during the scheduled time, including the final presentations. I understand that occasionally you may have challenges attending (e.g., illness, religious observance, etc.). However, if you anticipate having a challenge regularly attending class, please contact us. ",
     "url": "/syllabus/#attendance",
     
     "relUrl": "/syllabus/#attendance"
-  },"31": {
+  },"25": {
     "doc": "Syllabus",
     "title": "Academic Integrity",
     "content": "Honesty and transparency are important features of good scholarship. On the flip side, plagiarism and cheating are serious academic offenses with serious consequences. If you are discovered engaging in either behavior in this course, you will earn a failing grade on the assignment in question, and further disciplinary action may be taken. We encourage you to work together on projects (teams up to 2) to make use of campus resources like Penn GSE Student Success to assist you in your pursuit of academic excellence. However, please note that in accord with the university’s policy you must acknowledge any collaboration or assistance that you receive on work that is to be graded, either from a person, reference, or a tool (including AI-generation tools like ChatGPT). ",
     "url": "/syllabus/#academic-integrity",
     
     "relUrl": "/syllabus/#academic-integrity"
-  },"32": {
+  },"26": {
     "doc": "Syllabus",
     "title": "Late Policy",
-    "content": "Paper summaries are due right before the class starts. Reading and summarizing papers is necessary to foster good discussions. However, it might happen that one forgets to submit a summary, or circumstances arises. You can skip up to two summaries without any penalty. All skipped summaries after the second will receive a zero grade. There is no late policy for summaries. If you submit after the class, the summary is considered as “not submitted”. You can use a maximum of 3 late days for project proposals, midterms, and final report. A day is counted starting from 1 hour after the deadline. For instance, if your report is due on Monday at 10AM and you submit at 11:01AM, you have used one late day. After using three late days, the assignment will be given a grade of zero. Unexcused late presentations will immediately receive a zero grade, because they will affect our ability to hold class. Re-scheduling presentations will be based on schedule availability and the professors’ discretion. If you experience an unforseeable emergency and would like us to consider waiving any of the above penalties, please email us as early as possible to discuss this request. ",
+    "content": "The only time when students have to submit something for this class is for the drone racing competition. The event will be live, so not submitting runnable code on time will be equivalent to a fail grade for the entire team. Not coming to the midterm or final exam will result to a fail grade. No exceptions will be granted. ",
     "url": "/syllabus/#late-policy",
     
     "relUrl": "/syllabus/#late-policy"
-  },"33": {
+  },"27": {
     "doc": "Syllabus",
     "title": "Communication",
-    "content": ". | Website: We will use the class website for posting course content (e.g., slides, paper readings, lecture recordings). | Canvas: We will use Canvas for uploading all assignments and grades. | Email: If you email your instructors, please include the substring “[RWRL Course]” to begin a meaningful subject line and have tried to resolve the issue appropriately otherwise. Please use your UPenn email account. | . ",
+    "content": ". | Website: We will use the class website for posting course content (e.g., slides). | Canvas: We will use Canvas for uploading all assignments. | Email: If you email your instructors, please include the substring “[RWRL Course]” to begin a meaningful subject line and have tried to resolve the issue appropriately otherwise. Please use your UPenn email account. | . ",
     "url": "/syllabus/#communication",
     
     "relUrl": "/syllabus/#communication"
-  },"34": {
+  },"28": {
     "doc": "Syllabus",
     "title": "Grading",
-    "content": "This course will have no exams. Instead, grading will be broken down by . | Attendance: We want students to attend lectures in person consistently. Students are permitted 2 unexcused absences, no questions asked, before being docked. | Paper Summaries, Discussion, and Presentations: One goal we have for this course is for you to understand how to consume, explain, and critique research papers. Paper summaries are 1-2 paragraph descriptions (per paper) of the reading assignments that will be submitted to Canvas. Canvas notes are short comments about the work (can be a limitation, an observation, etc.). Paper presentations occur during in-class discussions. | Project: Students will engage in a semester-long research project related to the themes of the course before presenting them at the end of the semester. | Extra Credits: You will receive extra credits for the following activities: | Run experiments with the code of the paper you’re presenting, showing your empirical analysis during the presentation. | Attend Talks and Events: There will be some interesting talks and events throughout the semester, which we will advertise. Going to the talk and submitting a summary of the talk on Canvas will give you extra credits. | . | Percentage | Activity | . | 10% | Attendance and Discussion | . | 30% | Paper Summaries &amp; Comments | . | 20% | Paper Presentation | . | 10% | Midterm Project Report | . | 30% | Final Project (Presentation + Report) | . ",
+    "content": "Grading details will be provided in the slides from the first class. Overall, your final grade will be based on a combination of exams and your performance in the drone race. ",
     "url": "/syllabus/#grading",
     
     "relUrl": "/syllabus/#grading"
-  },"35": {
-    "doc": "Syllabus",
-    "title": "Paper Summaries &amp; Presentations",
-    "content": "Paper Summaries . There will be several paper discussion days during which you will be as- signed research papers to read. You are expected to complete all assigned readings before class and come prepared with comments and questions to discuss with the group. You will share 1–2 paragraphs with your takeaways (per paper) on each reading on Canvas, by 9:59am ET of the day the reading will be discussed. Paper Presentations . During paper discussion days, we will dive into two or three papers. You will be able to decide which discussion topic you want to be assigned to (first come, first serve). You will present one paper from that topic. (Note: this paper presentation structure is subject to change based on class size). ",
-    "url": "/syllabus/#paper-summaries--presentations",
-    
-    "relUrl": "/syllabus/#paper-summaries--presentations"
-  },"36": {
+  },"29": {
     "doc": "Syllabus",
     "title": "Health &amp; Wellness",
     "content": "Take care of yourself. Do your best to maintain a healthy lifestyle this semester by eating well, exercising, avoiding drugs and alcohol, getting enough sleep and taking some time to relax. This will help you achieve your goals and cope with stress. All of us benefit from support during times of struggle. There are many helpful resources available on campus and an important part of the college experience is learning how to ask for help. Asking for support sooner rather than later is almost always helpful. If you or anyone you know experiences any academic stress, difficult life events, or feelings like anxiety or depression, we strongly encourage you to seek support. Counseling and Psychological Services (CaPS) is here to help: call 215-746-WELL (9355) and visit their website at https://wellness.upenn.edu/student-health-and-counseling. Consider reaching out to a friend, faculty or family member you trust for help getting connected to the support that can help. If you or someone you know is feeling suicidal or in danger of self-harm, call someone immediately, day or night: . CaPS: 215-746-WELL (9355) . ",
