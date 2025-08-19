@@ -36,6 +36,9 @@ This is a graduate-level course. Students are expected to have prior knowledge i
 {% endfor %}
 
 
+This course will follow the University Policy on Secular & Religious Holidays which can be found in the PennBook. No exams or assigned work will be required on those holidays listed in sections 1 & 2 of the policy.  Students who plan to observe any other holiday should contact the instructor within the first two weeks of class so that alternative arrangements can be made.
+
+
 ## Instructors
 
 <figure style="display: inline-flex;">
