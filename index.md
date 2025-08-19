@@ -7,8 +7,8 @@ seo:
   name: Physical Intelligence: Foundation and Systems 
 ---
 
-# Real-World Robot Learning 
-Spring 2025. ESE 6510. Tue / Thu 10:15-11:45. AGH X.
+# Physical Intelligence
+Fall 2025. ESE 6510. Tue / Thu 10:15-11:45. AGH X.
 
 ![Image](/assets/images/front_page.png)
 
