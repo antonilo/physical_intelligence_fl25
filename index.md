@@ -8,7 +8,7 @@ seo:
 ---
 
 # Physical Intelligence
-Fall 2025. ESE 6510. Tue / Thu 10:15-11:45. AGH X.
+Fall 2025. ESE 6510. Tue / Thu 10:15-11:45. Fagin Hall 118.
 
 ![Image](/assets/images/front_page.png)
 
