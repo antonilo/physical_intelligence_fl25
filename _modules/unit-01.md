@@ -17,4 +17,4 @@ SEP 4
 
 SEP 9
 : Intro to Probability I
-  : [Slides](/physical_intelligence_fl25/assets/pdfs/)
+  : [Notes](https://github.com/NaoPross/RecursiveEstimation/blob/master/RecursiveEstimation.pdf) (class content was slightly different)

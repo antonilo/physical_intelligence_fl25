@@ -70,10 +70,11 @@ This is a graduate-level course. Students are expected to have prior knowledge i
 
 <a href="https://robots-that-learn.github.io/"> Robots that learn</a>, UC Berkeley.
 
+<a href="https://manipulation.csail.mit.edu/index.html"> Robotics Manipulation</a>, MIT.
+
 Deep Reinforcement Learning: <a href="https://cmudeeprl.github.io/403website_s25/"> CMU version</a> <a href="https://rail.eecs.berkeley.edu/deeprlcourse/"> UC Berkeley version</a>.
 
 <a href="https://16-831-s24.github.io/"> Introduction to Robot Learning</a>, CMU.
-
 
 <a href="https://abajcsy.github.io/embodied-ai-safety/">Embodied AI Safety</a>, CMU. This course is not only very interesting, but also has an awesome webpage.
 

@@ -3,7 +3,7 @@ title: Imitation Learning
 --- 
 
 OCT 9
-: Intro to Imitation Learning
+: Sim2Real: Tips & Tricks and Intro to Imitation Learning
   : [Slides](/physical_intelligence_fl25/assets/pdfs/)
 
 

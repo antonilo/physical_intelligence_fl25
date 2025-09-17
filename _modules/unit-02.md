@@ -5,17 +5,16 @@ title: Reinforcement Learning
 
 SEP 11
 : Intro to Reinforcement Learning
-  : [Slides](/physical_intelligence_fl25/assets/pdfs/)
+  : [Slides](/physical_intelligence_fl25/assets/pdfs/ESE6510_Fall25_Intro_RL.pdf)
 
 SEP 16
-: Policy Gradient
-  : [Slides](/physical_intelligence_fl25/assets/pdfs/)
+: Intro to Reinforcement Learning
+  : [Slides](/physical_intelligence_fl25/assets/pdfs/ESE6510_Fall25_Intro_RL.pdf)
 
 
 SEP 18
-: Actor Critic
+: Policy Gradient
   : [Slides](/physical_intelligence_fl25/assets/pdfs/) 
-
 
 
 SEP 23
@@ -27,6 +26,10 @@ SEP 25
 : Tutorial on RL 
   : [Slides](/physical_intelligence_fl25/assets/pdfs/)
 
+
+SEP 30
+: Value and Q-Learning
+  : [Slides](/physical_intelligence_fl25/assets/pdfs/)
 
 
 
