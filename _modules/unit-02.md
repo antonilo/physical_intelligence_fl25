@@ -14,7 +14,7 @@ SEP 16
 
 SEP 18
 : Policy Gradient
-  : [Slides](/physical_intelligence_fl25/assets/pdfs/) 
+  : [Shulman, Ch. 2.6](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2016/EECS-2016-217.pdf) 
 
 
 SEP 23
