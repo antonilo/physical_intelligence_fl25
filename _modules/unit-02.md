@@ -18,17 +18,24 @@ SEP 18
 
 
 SEP 23
-: Advanced Policy Gradient (NPG, TRPO, PPO) 
-  : [Slides](/physical_intelligence_fl25/assets/pdfs/)
+: Policy Gradient (Advantage Estimation) 
+  : [Shulman, Ch. 4](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2016/EECS-2016-217.pdf)
 
 
 SEP 25
 : Tutorial on RL 
-  : [Slides](/physical_intelligence_fl25/assets/pdfs/)
-
+  : [Slides](/physical_intelligence_fl25/assets/pdfs/tutorial_rl_slides.pdf)
 
 SEP 30
-: Value and Q-Learning
+: Advanced Policy Gradient (TRPO,PPO)
+  : [Shulman, Ch. 3](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2016/EECS-2016-217.pdf), [PPO](https://arxiv.org/abs/1707.06347)
+
+OCT 2
+: Policy Gradients and World Models 
+  : [Slides](/physical_intelligence_fl25/assets/pdfs/)
+
+OCT 7
+: Value and Q Learning 
   : [Slides](/physical_intelligence_fl25/assets/pdfs/)
 
 

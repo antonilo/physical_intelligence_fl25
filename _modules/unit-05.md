@@ -13,7 +13,7 @@ NOV 6
 
 
 NOV 11
-: Race Day (Phase I) 
+: MidTerm 
 
 
 NOV 13
@@ -23,7 +23,7 @@ NOV 13
 
 NOV 18
 : Guest Lecture IV
-  : [Haozhi Qi](https://haozhi.io)
+  : [Haozhi Qi](https://haozhi.io), Submission Deadline for Race Phase I.
 
 
 NOV 20
