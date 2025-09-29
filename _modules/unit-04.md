@@ -2,10 +2,6 @@
 title: Imitation Learning
 --- 
 
-OCT 16
-: Sim2Real: Tips & Tricks and Intro to Imitation Learning
-  : [Slides](/physical_intelligence_fl25/assets/pdfs/)
-
 OCT 21
 : **No Class**{: .label .label-purple} Fall Break :fallen_leaf:
 
