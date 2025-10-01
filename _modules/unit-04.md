@@ -5,7 +5,7 @@ title: Imitation Learning
 OCT 21
 : **No Class**{: .label .label-purple} Fall Break :fallen_leaf:
 
-Oct 23
+OCT 23
 : MidTerm 
 
 OCT 28

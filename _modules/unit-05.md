@@ -13,7 +13,7 @@ NOV 6
 
 
 
-Nov 11
+NOV 11
 : Tutorial on Imitation Learning
   : [Slides](/physical_intelligence_fl25/assets/pdfs/)
 
