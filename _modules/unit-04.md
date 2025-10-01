@@ -5,17 +5,18 @@ title: Imitation Learning
 OCT 21
 : **No Class**{: .label .label-purple} Fall Break :fallen_leaf:
 
-OCT 23
+Oct 23
+: MidTerm 
+
+OCT 28
 : Learning from Pre-Trained Models (Behavioral Models) 
   : [Slides](/physical_intelligence_fl25/assets/pdfs/)
 
-OCT 28
-: Imitation Learning as Generative Modeling: AE; VAE, Diffusion 
+OCT 30
+: Imitation Learning as Generative Modeling: Flow-matching, Diffusion 
   : [Slides](/physical_intelligence_fl25/assets/pdfs/)
 
-OCT 30
-: Tutorial on Imitation Learning
-  : [Slides](/physical_intelligence_fl25/assets/pdfs/)
+
 
 
 <!-- OCT 23

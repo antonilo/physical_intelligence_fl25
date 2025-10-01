@@ -12,8 +12,10 @@ NOV 6
   : [Rachel Holladay](https://www.seas.upenn.edu/~rhollada/)
 
 
-NOV 11
-: MidTerm 
+
+Nov 11
+: Tutorial on Imitation Learning
+  : [Slides](/physical_intelligence_fl25/assets/pdfs/)
 
 
 NOV 13
