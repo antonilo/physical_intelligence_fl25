@@ -36,7 +36,7 @@ OCT 2
 
 OCT 7
 : Value and Q Learning 
-  : [Slides](/physical_intelligence_fl25/assets/pdfs/)
+  : [Slides](/physical_intelligence_fl25/assets/pdfs/) [S&B, Ch. 4; Ch. 5(up to 5.5); Ch. 6(6.5,6.7)](http://incompleteideas.net/book/RLbook2020.pdf)
 
 
 
