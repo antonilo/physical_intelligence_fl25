@@ -32,7 +32,7 @@ SEP 30
 
 OCT 2
 : Policy Gradients and World Models 
-  : [Slides](/physical_intelligence_fl25/assets/pdfs/)
+  : [Slides](/physical_intelligence_fl25/assets/pdfs/ESE6510_Fall25_Beyond_Policy_Gradients.pdf)
 
 OCT 7
 : Value and Q Learning 
