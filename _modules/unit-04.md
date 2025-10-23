@@ -2,14 +2,14 @@
 title: Imitation Learning
 --- 
 
-
 OCT 23
-: Learning from Pre-Trained Models (Behavioral Models) 
+: Imitation Learning as Generative Modeling: Flow-matching, Diffusion 
   : [Slides](/physical_intelligence_fl25/assets/pdfs/)
 
 OCT 28
-: Imitation Learning as Generative Modeling: Flow-matching, Diffusion 
+: Learning from Pre-Trained Models (Behavioral Models) 
   : [Slides](/physical_intelligence_fl25/assets/pdfs/)
+  
 
 OCT 30
 : MidTerm 

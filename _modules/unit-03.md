@@ -15,4 +15,4 @@ OCT 16
 
 OCT 21
 : Sim2Real: Tips & Tricks and Intro to Imitation Learning
-  : [Slides](/physical_intelligence_fl25/assets/pdfs/)
+  : [Slides](/physical_intelligence_fl25/assets/pdfs/ESE6510_Fall25_Intro_sim2real.pdf)
