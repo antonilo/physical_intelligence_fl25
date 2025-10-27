@@ -7,9 +7,9 @@ OCT 23
   : [Slides](/physical_intelligence_fl25/assets/pdfs/)
 
 OCT 28
-: Learning from Pre-Trained Models (Behavioral Models) 
+: Introduction to Behavioral Cloning
   : [Slides](/physical_intelligence_fl25/assets/pdfs/)
-  
+
 
 OCT 30
 : MidTerm 

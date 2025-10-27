@@ -4,7 +4,7 @@ title: Applications and Frontiers
 
 NOV 4
 : Guest Lecture I  
-  : [Homanga Bharadhwaj](https://homangab.github.io/)
+  : [Haozhi Qi](https://haozhi.io)
 
 
 NOV 6
@@ -14,7 +14,7 @@ NOV 6
 
 
 NOV 11
-: Tutorial on Imitation Learning
+: Behavioral Cloning and Foundation Models
   : [Slides](/physical_intelligence_fl25/assets/pdfs/)
 
 
@@ -25,7 +25,7 @@ NOV 13
 
 NOV 18
 : Guest Lecture IV
-  : [Haozhi Qi](https://haozhi.io), Submission Deadline for Race Phase I.
+  : [Homanga Bharadhwaj](https://homangab.github.io/), Submission Deadline for Race Phase I.
 
 
 NOV 20
