@@ -12,12 +12,6 @@ NOV 6
   : [Rachel Holladay](https://www.seas.upenn.edu/~rhollada/)
 
 
-
-NOV 11
-: Behavioral Cloning and Foundation Models
-  : [Slides](/physical_intelligence_fl25/assets/pdfs/)
-
-
 NOV 13
 : Guest Lecture III
   : [Yunzhu Li](https://yunzhuli.github.io)
@@ -28,13 +22,8 @@ NOV 18
   : [Homanga Bharadhwaj](https://homangab.github.io/), Submission Deadline for Race Phase I.
 
 
-NOV 20
-: Challenges ahead
-  : [Slides](/physical_intelligence_fl25/assets/pdfs/)
-
-
 NOV 25
-: The Illusion of Intelligence
+: Challenges Ahead
   : [Slides](/physical_intelligence_fl25/assets/pdfs/)
 
 
@@ -48,5 +37,3 @@ DEC 2
 
 DEC 4
 : Race Day (Phase II)
-
-
