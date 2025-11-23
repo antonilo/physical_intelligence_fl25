@@ -20,7 +20,7 @@ NOV 11
 
 NOV 20
 : Behavioral Cloning and Foundation Models
-  : [Slides](/physical_intelligence_fl25/assets/pdfs/)
+  : [Slides](/physical_intelligence_fl25/assets/pdfs/ESE6510_Fall25_Foundation_Models_BC.pdf)
 
 
 <!-- OCT 23
